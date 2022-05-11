@@ -1,0 +1,2 @@
+Naming Convention is the same as for the Masks. 
+The Inverted DFX files were used when creating the 3D models
